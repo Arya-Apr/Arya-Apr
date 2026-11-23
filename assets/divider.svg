@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 14" width="1000" height="14" role="img" aria-label="decorative divider">
+<title>decorative divider</title>
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="500" y2="0" spreadMethod="repeat"><stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/><stop offset="0.3" stop-color="#2dd4bf"/><stop offset="0.55" stop-color="#60a5fa"/><stop offset="0.8" stop-color="#a78bfa"/><stop offset="1" stop-color="#a78bfa" stop-opacity="0"/><animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="500 0" dur="5s" repeatCount="indefinite"/></linearGradient></defs><rect x="0" y="5" width="1000" height="3" rx="1.5" fill="url(#g)"/>
+</svg>

@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 316" width="1000" height="316" role="img" aria-label="Timeline of projects from January 2023 to November 2026">
+<title>Timeline of projects from January 2023 to November 2026</title>
+<rect x="1" y="1" width="998" height="314" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<text x="36" y="38" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" font-weight="700" fill="#e6edf3">The path so far</text>
+<text x="36" y="58" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="13" fill="#8b949e">from Git exercises to agents, in commit order</text>
+<path d="M84,160 L916,160" stroke="#30363d" stroke-width="3" stroke-linecap="round"/>
+<path d="M84,160 L916,160" stroke="#60a5fa" stroke-width="3" stroke-linecap="round" stroke-dasharray="832" stroke-dashoffset="832"><animate attributeName="stroke-dashoffset" keyTimes="0;0.02;0.22;0.93;0.97;1" values="832;832;0;0;832;832" dur="16s" repeatCount="indefinite" /></path>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.02;0.045;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M84,152 L84,116" stroke="#2dd4bf" stroke-opacity="0.5"/>
+<circle cx="84" cy="160" r="7" fill="#0d1117" stroke="#2dd4bf" stroke-width="2"/>
+<circle cx="84" cy="160" r="3" fill="#2dd4bf"/>
+<text x="84" y="80" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#2dd4bf" text-anchor="middle">Jan 2023</text>
+<text x="84" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">Git &amp; GitHub flow</text>
+<text x="84" y="114" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">starter-web · demo</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.04;0.065;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M167.2,168 L167.2,204" stroke="#60a5fa" stroke-opacity="0.5"/>
+<circle cx="167.2" cy="160" r="7" fill="#0d1117" stroke="#60a5fa" stroke-width="2"/>
+<circle cx="167.2" cy="160" r="3" fill="#60a5fa"/>
+<text x="167.2" y="238" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#60a5fa" text-anchor="middle">Apr 2023</text>
+<text x="167.2" y="256" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">NestJS APIs</text>
+<text x="167.2" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">Pharmacy · Stint APIs</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.06;0.085;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M250.4,152 L250.4,116" stroke="#a78bfa" stroke-opacity="0.5"/>
+<circle cx="250.4" cy="160" r="7" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="250.4" cy="160" r="3" fill="#a78bfa"/>
+<text x="250.4" y="80" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#a78bfa" text-anchor="middle">Jul 2023</text>
+<text x="250.4" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">CrowdFunding</text>
+<text x="250.4" y="114" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">NestJS · .NET · React</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.08;0.105;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M333.6,168 L333.6,204" stroke="#fbbf24" stroke-opacity="0.5"/>
+<circle cx="333.6" cy="160" r="7" fill="#0d1117" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="333.6" cy="160" r="3" fill="#fbbf24"/>
+<text x="333.6" y="238" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#fbbf24" text-anchor="middle">Jan 2024</text>
+<text x="333.6" y="256" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">Jakarta EE</text>
+<text x="333.6" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">EJB · JSF · JPA · SOAP</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.1;0.125;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M416.8,152 L416.8,116" stroke="#fb7185" stroke-opacity="0.5"/>
+<circle cx="416.8" cy="160" r="7" fill="#0d1117" stroke="#fb7185" stroke-width="2"/>
+<circle cx="416.8" cy="160" r="3" fill="#fb7185"/>
+<text x="416.8" y="80" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#fb7185" text-anchor="middle">May 2024</text>
+<text x="416.8" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">Java microservices</text>
+<text x="416.8" y="114" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">PizzaHunt → SweetHunt</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.12;0.145;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M500,168 L500,204" stroke="#4ade80" stroke-opacity="0.5"/>
+<circle cx="500" cy="160" r="7" fill="#0d1117" stroke="#4ade80" stroke-width="2"/>
+<circle cx="500" cy="160" r="3" fill="#4ade80"/>
+<text x="500" y="238" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#4ade80" text-anchor="middle">Jun 2024</text>
+<text x="500" y="256" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">InsureIt</text>
+<text x="500" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">Spring Boot · Stripe</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.14;0.165;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M583.2,152 L583.2,116" stroke="#2dd4bf" stroke-opacity="0.5"/>
+<circle cx="583.2" cy="160" r="7" fill="#0d1117" stroke="#2dd4bf" stroke-width="2"/>
+<circle cx="583.2" cy="160" r="3" fill="#2dd4bf"/>
+<text x="583.2" y="80" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#2dd4bf" text-anchor="middle">Apr 2025</text>
+<text x="583.2" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">TestAssessment</text>
+<text x="583.2" y="114" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">NestJS · PostgreSQL</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.16;0.185;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M666.4,168 L666.4,204" stroke="#60a5fa" stroke-opacity="0.5"/>
+<circle cx="666.4" cy="160" r="7" fill="#0d1117" stroke="#60a5fa" stroke-width="2"/>
+<circle cx="666.4" cy="160" r="3" fill="#60a5fa"/>
+<text x="666.4" y="238" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#60a5fa" text-anchor="middle">Sep 2025</text>
+<text x="666.4" y="256" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">MSc AI @ DCU</text>
+<text x="666.4" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">Bus delay · Echo Chamber</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.18;0.205;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M749.6,152 L749.6,116" stroke="#a78bfa" stroke-opacity="0.5"/>
+<circle cx="749.6" cy="160" r="7" fill="#0d1117" stroke="#a78bfa" stroke-width="2"/>
+<circle cx="749.6" cy="160" r="3" fill="#a78bfa"/>
+<text x="749.6" y="80" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#a78bfa" text-anchor="middle">Jun 2026</text>
+<text x="749.6" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">AEO v2</text>
+<text x="749.6" y="114" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">PPO · FedAvg · 7 metrics</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.2;0.225;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M832.8,168 L832.8,204" stroke="#fbbf24" stroke-opacity="0.5"/>
+<circle cx="832.8" cy="160" r="7" fill="#0d1117" stroke="#fbbf24" stroke-width="2"/>
+<circle cx="832.8" cy="160" r="3" fill="#fbbf24"/>
+<text x="832.8" y="238" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#fbbf24" text-anchor="middle">Aug 2026</text>
+<text x="832.8" y="256" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">Entitle</text>
+<text x="832.8" y="272" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">Agentic RAG · MCP</text>
+</g>
+<g opacity="0"><animate attributeName="opacity" keyTimes="0;0.22;0.245;0.93;0.97;1" values="0;0;1;1;0;0" dur="16s" repeatCount="indefinite" />
+<path d="M916,152 L916,116" stroke="#fb7185" stroke-opacity="0.5"/>
+<circle cx="916" cy="160" r="7" fill="#0d1117" stroke="#fb7185" stroke-width="2"/>
+<circle cx="916" cy="160" r="3" fill="#fb7185"/>
+<text x="916" y="80" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#fb7185" text-anchor="middle">Nov 2026</text>
+<text x="916" y="98" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="12.5" font-weight="700" fill="#e6edf3" text-anchor="middle">Atlas router</text>
+<text x="916" y="114" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="10.5" fill="#8b949e" text-anchor="middle">Routing + evaluation</text>
+</g>
+<circle r="5" fill="#fff" fill-opacity="0.9"><animateMotion dur="5s" repeatCount="indefinite" path="M84,160 L916,160"/></circle>
+</svg>

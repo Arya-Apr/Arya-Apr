@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 356" width="1000" height="356" role="img" aria-label="AEO: smart-room cooling with 3-value summaries instead of raw sensor streams, 88.7 percent less bandwidth than raw central control in my evaluation runs">
+<title>AEO: smart-room cooling with 3-value summaries instead of raw sensor streams, 88.7 percent less bandwidth than raw central control in my evaluation runs</title>
+<rect x="1" y="1" width="998" height="354" rx="18" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<text x="36" y="40" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="19" font-weight="700" fill="#e6edf3">AEO · Agentic Edge Orchestrator</text>
+<text x="36" y="62" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="13" fill="#8b949e">smart-room cooling decided from 3-value summaries instead of raw sensor streams</text>
+<rect x="36" y="84" width="64" height="26" rx="7" fill="#1f2937" stroke="#30363d"/><text x="68" y="101" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3" text-anchor="middle">room 1</text>
+<path d="M100,97 L118,97" stroke="#30363d" stroke-width="1.5"/>
+<rect x="36" y="118" width="64" height="26" rx="7" fill="#1f2937" stroke="#30363d"/><text x="68" y="135" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3" text-anchor="middle">room 2</text>
+<path d="M100,131 L118,131" stroke="#30363d" stroke-width="1.5"/>
+<rect x="36" y="152" width="64" height="26" rx="7" fill="#1f2937" stroke="#30363d"/><text x="68" y="169" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3" text-anchor="middle">room 3</text>
+<path d="M100,165 L118,165" stroke="#30363d" stroke-width="1.5"/>
+<rect x="36" y="186" width="64" height="26" rx="7" fill="#1f2937" stroke="#30363d"/><text x="68" y="203" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3" text-anchor="middle">room 4</text>
+<path d="M100,199 L118,199" stroke="#30363d" stroke-width="1.5"/>
+<rect x="36" y="220" width="64" height="26" rx="7" fill="#1f2937" stroke="#30363d"/><text x="68" y="237" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3" text-anchor="middle">room 5</text>
+<path d="M100,233 L118,233" stroke="#30363d" stroke-width="1.5"/>
+<path d="M118,97 L118,233" stroke="#30363d" stroke-width="1.5"/>
+<text x="130" y="96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b949e">raw central control: every reading, every step</text>
+<path d="M118,112 L600,112" stroke="#8b949e" stroke-width="5" stroke-opacity="0.35" stroke-linecap="round"/>
+<circle r="6" fill="#8b949e"><animateMotion dur="3.5s" begin="-0s" repeatCount="indefinite" path="M118,112 L600,112"/></circle>
+<circle r="6" fill="#8b949e"><animateMotion dur="3.5s" begin="-0.5s" repeatCount="indefinite" path="M118,112 L600,112"/></circle>
+<circle r="6" fill="#8b949e"><animateMotion dur="3.5s" begin="-1s" repeatCount="indefinite" path="M118,112 L600,112"/></circle>
+<circle r="6" fill="#8b949e"><animateMotion dur="3.5s" begin="-1.5s" repeatCount="indefinite" path="M118,112 L600,112"/></circle>
+<circle r="6" fill="#8b949e"><animateMotion dur="3.5s" begin="-2s" repeatCount="indefinite" path="M118,112 L600,112"/></circle>
+<circle r="6" fill="#8b949e"><animateMotion dur="3.5s" begin="-2.5s" repeatCount="indefinite" path="M118,112 L600,112"/></circle>
+<circle r="6" fill="#8b949e"><animateMotion dur="3.5s" begin="-3s" repeatCount="indefinite" path="M118,112 L600,112"/></circle>
+<text x="130" y="176" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#2dd4bf">AEO: a local summariser sends 3 values per room</text>
+<path d="M118,198 L600,198" stroke="#2dd4bf" stroke-width="2" stroke-opacity="0.45"/>
+<rect x="130" y="184" width="238" height="28" rx="14" fill="#2dd4bf" fill-opacity="0.14" stroke="#2dd4bf"/><text x="249" y="202" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#2dd4bf" text-anchor="middle">temp_state · trend · occupancy</text>
+<circle r="3.5" fill="#2dd4bf"><animateMotion dur="3.5s" begin="-0s" repeatCount="indefinite" path="M368,198 L600,198"/></circle>
+<circle r="3.5" fill="#2dd4bf"><animateMotion dur="3.5s" begin="-1.75s" repeatCount="indefinite" path="M368,198 L600,198"/></circle>
+<rect x="600" y="84" width="150" height="172" rx="14" fill="#161b22" stroke="#a78bfa" stroke-width="1.6"/>
+<text x="675" y="106" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="13" font-weight="700" fill="#a78bfa" text-anchor="middle">orchestrator</text><text x="675" y="122" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#8b949e" text-anchor="middle">LangGraph · 2 nodes</text>
+<rect x="612" y="140" width="126" height="28" rx="8" fill="#a78bfa" fill-opacity="0.14" stroke="#a78bfa"/><text x="675" y="158" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3" text-anchor="middle">aggregate_context</text>
+<rect x="612" y="206" width="126" height="28" rx="8" fill="#a78bfa" fill-opacity="0.14" stroke="#a78bfa"/><text x="675" y="224" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3" text-anchor="middle">decide_commands</text>
+<path d="M675,168 L675,206" stroke="#a78bfa" stroke-width="1.5" stroke-dasharray="3 4"/><circle r="3.5" fill="#fbbf24"><animateMotion dur="1.6s" repeatCount="indefinite" path="M675,168 L675,206"/></circle>
+<path d="M750,170 L826,170" stroke="#fbbf24" stroke-width="2" stroke-opacity="0.5"/>
+<circle r="4" fill="#fbbf24"><animateMotion dur="1.8s" repeatCount="indefinite" path="M750,170 L826,170"/></circle>
+<g><rect x="826" y="156" width="117.6" height="28" rx="14.0" fill="#fbbf24" fill-opacity="0.14" stroke="#fbbf24" stroke-opacity="0.7"/><text x="884.8" y="174.32" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#fbbf24" text-anchor="middle" textLength="93.6" lengthAdjust="spacingAndGlyphs">heater on/off</text></g>
+<text x="850" y="204" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#8b949e">PPO policy trains on</text><text x="850" y="220" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#8b949e">the same 3 values</text>
+<text x="36" y="286" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8b949e">bandwidth vs raw central control</text>
+<text x="36" y="304" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3">raw central</text>
+<rect x="130" y="294" width="0" height="12" rx="6" fill="#8b949e"><animate attributeName="width" keyTimes="0;0.03;0.15;0.94;0.97;1" values="0;0;330;330;0;0" dur="12s" repeatCount="indefinite" /></rect>
+<text x="468" y="304" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" font-weight="700" fill="#8b949e" opacity="0"><animate attributeName="opacity" keyTimes="0;0.13;0.16;0.94;0.97;1" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite" />100%</text>
+<text x="36" y="324" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#e6edf3">AEO</text>
+<rect x="130" y="314" width="0" height="12" rx="6" fill="#2dd4bf"><animate attributeName="width" keyTimes="0;0.03;0.15;0.94;0.97;1" values="0;0;37.29;37.29;0;0" dur="12s" repeatCount="indefinite" /></rect>
+<text x="175.29" y="324" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" font-weight="700" fill="#2dd4bf" opacity="0"><animate attributeName="opacity" keyTimes="0;0.13;0.16;0.94;0.97;1" values="0;0;1;1;0;0" dur="12s" repeatCount="indefinite" />11.3%  (−88.7%)</text>
+<g><rect x="560" y="278" width="169.2" height="26" rx="13.0" fill="#2dd4bf" fill-opacity="0.14" stroke="#2dd4bf" stroke-opacity="0.7"/><text x="644.6" y="294.96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#2dd4bf" text-anchor="middle" textLength="145.2" lengthAdjust="spacingAndGlyphs">comfort error 0.451 °C</text></g>
+<g><rect x="739.2" y="278" width="123" height="26" rx="13.0" fill="#a78bfa" fill-opacity="0.14" stroke="#a78bfa" stroke-opacity="0.7"/><text x="800.7" y="294.96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#a78bfa" text-anchor="middle" textLength="99" lengthAdjust="spacingAndGlyphs">latency 4.82 ms</text></g>
+<g><rect x="560" y="310" width="222" height="26" rx="13.0" fill="#60a5fa" fill-opacity="0.14" stroke="#60a5fa" stroke-opacity="0.7"/><text x="671" y="326.96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#60a5fa" text-anchor="middle" textLength="198" lengthAdjust="spacingAndGlyphs">5 real rooms · 4 control modes</text></g>
+<g><rect x="792" y="310" width="83.4" height="26" rx="13.0" fill="#fbbf24" fill-opacity="0.14" stroke="#fbbf24" stroke-opacity="0.7"/><text x="833.7" y="326.96" font-family="'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="11" fill="#fbbf24" text-anchor="middle" textLength="59.4" lengthAdjust="spacingAndGlyphs">7 metrics</text></g>
+<text x="36" y="344" font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans',sans-serif" font-size="11" fill="#8b949e">figures from my evaluation runs · latest code is on the updated-aeo-26/06 branch</text>
+</svg>
