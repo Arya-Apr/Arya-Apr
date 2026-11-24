@@ -20,9 +20,7 @@
 
 ## About me
 
-Hi, I'm **Arya** 👋 a software engineer in Dublin who builds AI systems you can measure. I have three degrees, a bachelor's and two master's, the latest an MSc in Computing (Artificial Intelligence) from Dublin City University. From 2022 to 2025 I also built production backends at LaNet alongside my studies, including an HR system used by 500+ employees that cut manual attendance tracking by 40%.
-
-<div align="center"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/degrees.svg" alt="A retro installer window listing my three degrees: BSc Information Technology (VNSGU, 2023), MSc Information Technology (VNSGU, 2025) and MSc Computing, Artificial Intelligence (DCU, 2026)" width="640"></div>
+Hi, I'm **Arya** 👋 a software engineer in Dublin who builds AI systems you can measure. I hold a bachelor's and two master's degrees, the latest an MSc in Computing (Artificial Intelligence) from Dublin City University (details in [Education](#education)). From 2022 to 2025 I also built production backends at LaNet alongside my studies, including an HR system used by 500+ employees that cut manual attendance tracking by 40%.
 
 I like the unglamorous parts of building with AI: deterministic rules where the answer has to be exact, a human in the loop when the model is unsure, and a baseline to beat so I know the thing actually works. Put differently: if it isn't measured, it's a demo.
 
@@ -43,6 +41,21 @@ I like the unglamorous parts of building with AI: deterministic rules where the 
 5. **Keep production boring.** Health checks, retries, metrics and dashboards, so failures are visible and quick to triage.
 
 </details>
+
+<div align="center"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/divider.svg" alt="" width="100%"></div>
+
+## Education
+
+🎓 Three degrees across India and Ireland: a bachelor's and a master's in Information Technology, then a master's in Computing with an Artificial Intelligence major.
+
+| Degree | Institution | Years | Result |
+|---|---|---|---|
+| **MSc in Computing (Artificial Intelligence)** | Dublin City University, Ireland | 2025&#8288;–&#8288;2026 | 2:1 |
+| **MSc in Information Technology** | Veer Narmad South Gujarat University (VNSGU), India | 2023&#8288;–&#8288;2025 | 9.00&nbsp;SGPA |
+| **BSc in Information Technology** | Veer Narmad South Gujarat University (VNSGU), India | 2020&#8288;–&#8288;2023 | 8.31&nbsp;SGPA |
+
+- **At DCU:** practicum research on [AEO](https://github.com/Arya-Apr/AEO/tree/updated-aeo-26/06), plus group projects on bus-delay prediction and on Reddit attention and GameStop returns ([Echo Chamber Effect](https://github.com/Arya-Apr/Echo-Chamber-Effect)).
+- **Selected modules:** Advanced Machine Learning, Data Analytics and Data Mining, Neural Language Modelling (DCU) · Enterprise Java, Full-Stack Application Development, Cloud Computing, Machine Learning with Python (VNSGU).
 
 <div align="center"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/divider.svg" alt="" width="100%"></div>
 
