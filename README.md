@@ -8,13 +8,19 @@
 <a href="#every-repository-explained"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/btn-repos.svg" alt="All repositories" height="40"></a>
 <a href="https://www.linkedin.com/in/arya-apr/"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/btn-contact.svg" alt="Contact on LinkedIn" height="40"></a>
 
+<sub>Open to software and AI engineering roles in Ireland · <a href="https://www.linkedin.com/in/arya-apr/">say hello on LinkedIn</a></sub>
+
+<img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/stats.svg" alt="Proof points: 85.7% routing accuracy for Atlas against a 42.9% baseline; 88.7% less bandwidth for AEO than raw central control; 500+ employees on the HRMS I delivered; Entitle, built for the All-Ireland National AI Hackathon" width="100%">
+
+<b>Start here →</b> <a href="https://github.com/Arya-Apr/Adaptive-Retrieval-Router">Atlas</a> · <a href="https://github.com/Arya-Apr/AEO/tree/updated-aeo-26/06">AEO</a> · <a href="https://gitlab.com/arya49/project-entitle">Entitle</a> · <a href="https://github.com/Arya-Apr/InsureIt">InsureIt</a> · <a href="https://github.com/Arya-Apr/sweet_hunt_kafka">SweetHunt</a>
+
 <img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/divider.svg" alt="" width="100%">
 
 </div>
 
 ## About me
 
-Hi, I'm **Arya** 👋 a software engineer in Dublin. I have an MSc in Computing (Artificial Intelligence) from Dublin City University, and from 2022 to 2025 I built production backends at LaNet alongside my studies, including an HR system used by 500+ employees.
+Hi, I'm **Arya** 👋 a software engineer in Dublin who builds AI systems you can measure. I have an MSc in Computing (Artificial Intelligence) from Dublin City University, and from 2022 to 2025 I built production backends at LaNet alongside my studies, including an HR system used by 500+ employees that cut manual attendance tracking by 40%.
 
 I like the unglamorous parts of building with AI: deterministic rules where the answer has to be exact, a human in the loop when the model is unsure, and a baseline to beat so I know the thing actually works.
 
@@ -235,6 +241,6 @@ I like the unglamorous parts of building with AI: deterministic rules where the 
 
 ## Let's talk
 
-I'm always happy to talk about retrieval, agents and keeping things reliable. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/arya-apr/).
+I'm open to software and AI engineering roles in Ireland, and always happy to talk about retrieval, agents and keeping things reliable. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/arya-apr/).
 
 <div align="center"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/footer.svg" alt="Thanks for stopping by." width="100%"></div>
