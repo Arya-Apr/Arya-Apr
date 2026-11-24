@@ -27,7 +27,7 @@ I like the unglamorous parts of building with AI: deterministic rules where the 
 <details>
 <summary><b>🧭 How I work (click to expand)</b></summary>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/reveal-how.png" alt="" width="100%">
 
 1. **Deterministic where it must be exact, an LLM where it helps.** In Entitle, rules decide eligibility; the model only chooses the next question and explains the result.
 2. **Measure it against something simpler.** Atlas is scored on 28 hand-labelled queries against an always-RAG baseline, and the per-query results are published.
@@ -46,7 +46,7 @@ I like the unglamorous parts of building with AI: deterministic rules where the 
 <details>
 <summary><b>Everything, grouped (click to expand)</b></summary>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/reveal-toolbox.png" alt="" width="100%">
 
 | | |
 |---|---|
@@ -79,7 +79,7 @@ I like the unglamorous parts of building with AI: deterministic rules where the 
 <details>
 <summary><b>Under the hood, results and where it failed</b></summary>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/reveal-atlas.png" alt="" width="100%">
 
 - **Index:** rebuilt on startup from the installed Azure Identity and Blob Storage packages: 256 entries, each with symbol, docstring, package version and Microsoft Learn citation. One transaction replaces the index and checks row count and citation uniqueness before commit. Queries use stemming, weighted BM25 and SQL snippet extraction.
 - **Hybrid search:** merges the two sources with reciprocal rank, de-duplicates by URL and returns up to ten citations. If Microsoft Learn is unavailable, it returns the indexed matches with a warning.
@@ -111,7 +111,7 @@ I like the unglamorous parts of building with AI: deterministic rules where the 
 <details>
 <summary><b>Under the hood</b></summary>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/reveal-aeo.png" alt="" width="100%">
 
 - **Four control modes run side by side** on the same episodes: raw central control, AEO summaries, an RL policy on the summaries, and a FedAvg federated baseline.
 - **Seven metrics:** comfort error, FedAvg convergence rounds, bandwidth per room, energy use, age of information, privacy leakage and orchestration latency.
@@ -184,7 +184,7 @@ I like the unglamorous parts of building with AI: deterministic rules where the 
 <details>
 <summary><b>All 23 repositories (click to expand)</b></summary>
 
-&nbsp;
+<img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/reveal-repos.png" alt="" width="100%">
 
 **AI and data**
 
