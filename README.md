@@ -10,7 +10,7 @@
 
 <sub>Open to software and AI engineering roles in Ireland · <a href="https://www.linkedin.com/in/arya-apr/">say hello on LinkedIn</a></sub>
 
-<img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/stats.svg" alt="Proof points: 85.7% routing accuracy for Atlas against a 42.9% baseline; 88.7% less bandwidth for AEO than raw central control; 500+ employees on the HRMS I delivered; Entitle, built for the All-Ireland National AI Hackathon" width="100%">
+<img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/stats.svg" alt="Proof points: 85.7% routing accuracy for Atlas against a 42.9% baseline; 88.7% less bandwidth for AEO than raw central control; 500+ employees on the HRMS I delivered; three degrees: a bachelor's and two master's" width="100%">
 
 <b>Start here →</b> <a href="https://github.com/Arya-Apr/Adaptive-Retrieval-Router">Atlas</a> · <a href="https://github.com/Arya-Apr/AEO/tree/updated-aeo-26/06">AEO</a> · <a href="https://gitlab.com/arya49/project-entitle">Entitle</a> · <a href="https://github.com/Arya-Apr/InsureIt">InsureIt</a> · <a href="https://github.com/Arya-Apr/sweet_hunt_kafka">SweetHunt</a>
 
@@ -20,15 +20,16 @@
 
 ## About me
 
-Hi, I'm **Arya** 👋 a software engineer in Dublin who builds AI systems you can measure. I have an MSc in Computing (Artificial Intelligence) from Dublin City University, and from 2022 to 2025 I built production backends at LaNet alongside my studies, including an HR system used by 500+ employees that cut manual attendance tracking by 40%.
+Hi, I'm **Arya** 👋 a software engineer in Dublin who builds AI systems you can measure. I have three degrees, a bachelor's and two master's, the latest an MSc in Computing (Artificial Intelligence) from Dublin City University. From 2022 to 2025 I also built production backends at LaNet alongside my studies, including an HR system used by 500+ employees that cut manual attendance tracking by 40%.
 
-I like the unglamorous parts of building with AI: deterministic rules where the answer has to be exact, a human in the loop when the model is unsure, and a baseline to beat so I know the thing actually works.
+<div align="center"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/degrees.svg" alt="A retro installer window listing my three degrees: BSc Information Technology (VNSGU, 2023), MSc Information Technology (VNSGU, 2025) and MSc Computing, Artificial Intelligence (DCU, 2026)" width="640"></div>
+
+I like the unglamorous parts of building with AI: deterministic rules where the answer has to be exact, a human in the loop when the model is unsure, and a baseline to beat so I know the thing actually works. Put differently: if it isn't measured, it's a demo.
 
 - 🔭 **Right now:** evaluation-first retrieval and agents ([Atlas](https://github.com/Arya-Apr/Adaptive-Retrieval-Router), Entitle) and privacy-preserving edge orchestration ([AEO](https://github.com/Arya-Apr/AEO/tree/updated-aeo-26/06))
 - 🧱 **Day to day:** Java with Spring Boot, NestJS, Kafka and RabbitMQ, React front ends
-- 🌱 **Learning:** Go and Azure
-- 🎮 **Off the clock:** Valorant, my first-ever game, and I still play it
-- 📍 **Based in:** Dublin, Ireland
+- 🌱 **Learning:** Go and Azure (docs open in another tab, as always)
+- 📍 **Based in:** Dublin, Ireland (the weather doubles as chaos testing)
 
 <details>
 <summary><b>🧭 How I work (click to expand)</b></summary>
@@ -241,6 +242,8 @@ I like the unglamorous parts of building with AI: deterministic rules where the 
 
 ## Let's talk
 
-I'm open to software and AI engineering roles in Ireland, and always happy to talk about retrieval, agents and keeping things reliable. The best way to reach me is on [LinkedIn](https://www.linkedin.com/in/arya-apr/).
+<div align="center"><a href="https://www.linkedin.com/in/arya-apr/"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/hire-dialog.svg" alt="A retro message box asking: would you like to discuss a role? The answers are Yes and Also yes. Both lead to my LinkedIn profile." width="560"></a></div>
+
+I'm open to software and AI engineering roles in Ireland, and always happy to talk about retrieval, agents and keeping things reliable. Click **Yes** (or **Also yes**) above, or find me on [LinkedIn](https://www.linkedin.com/in/arya-apr/).
 
 <div align="center"><img src="https://raw.githubusercontent.com/Arya-Apr/Arya-Apr/main/assets/footer.svg" alt="Thanks for stopping by." width="100%"></div>
